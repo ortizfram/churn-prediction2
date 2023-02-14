@@ -1,4 +1,5 @@
 # churn-prediction2
+# 85% precision, 81% accuracy
 <img src="https://user-images.githubusercontent.com/51888893/218786795-74b22d60-dcfa-4b3e-a826-181d10916887.png" width=700px>
 
 ## - Context
